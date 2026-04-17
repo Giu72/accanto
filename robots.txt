@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giu72.github.io/accanto/sitemap.xml
